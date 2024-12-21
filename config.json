@@ -17,12 +17,12 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "AYUSH SHRIVASTAVA ",
-    "PREFIX": "#",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100092750349098"
+        "100051705871957"
     ],
     "NDH": [
-        "100092750349098"
+        "100051705871957"
     ],
     "DATABASE": {
         "sqlite": {
