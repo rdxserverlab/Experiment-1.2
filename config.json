@@ -17,19 +17,19 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "AYUSH SHRIVASTAVA ",
-    "PREFIX": "#",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "61553634015672"
+        "100092750349098"
     ],
     "NDH": [
-        "61553634015672"
+        "100092750349098"
     ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "ARIF-BABU.json",
+    "APPSTATEPATH": "AYUSH SHRIVASTAVA .json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
